@@ -1,0 +1,130 @@
+.first{
+    color: rgb(103, 160, 182);
+    font-size: 50px;
+    font-weight: 700;
+
+}
+.plus2{
+    transform: rotate(-10deg);
+}
+.img{
+
+    bottom: 10px;
+    position: absolute;
+    transform: rotate(170deg);   
+    margin-left: 50px;
+    right: 3px;
+    top: 50%;
+    
+}
+.box{
+    margin-top: 90px;
+    position: relative;
+    background-color: black;
+    height: 390px;
+    width: 350px;
+    padding: 40px;
+    border-radius: 20px;
+    z-index: 1;
+    transform: rotate(1990deg)
+  
+}
+.circle2{
+    z-index: 0;
+      position: absolute;
+      width: 10px;
+      height: 20px;
+      padding: 10px;
+    
+      top: 65%;
+      left: 3%;
+      background-color: rgb(103, 160, 182); 
+      border-radius: 50%;
+  }
+  .circle3{
+    z-index: 0;
+      position: absolute;
+      width: 10px;
+      height: 20px;
+      padding: 30px;
+    
+      top: 25%;
+      left: 40%;
+      background-color: rgb(103, 160, 182); 
+      border-radius: 50%;
+  }
+.circle{
+  z-index: 0;
+    position: absolute;
+    width: 20px;
+    height: 40px;
+    padding: 20px;
+    padding: 60px;
+    top: 65%;
+    left: 30%;
+    background-color: rgb(103, 160, 182); 
+    border-radius: 50%;
+}
+.second{
+    font-style: oblique;
+    font-size: 50px;
+    font-weight: 700;
+    color: aliceblue;
+}
+.third{
+    color: rgb(117, 117, 117);
+    font-size: 30px;
+    font-weight: 600;
+}
+.fourth{
+background-color: rgb(103, 160, 182);
+width: 120px;
+text-align: center;
+padding: 10px;
+border-radius: 20px;
+color: aliceblue;
+font-weight: 800;
+margin-top: 30px;
+}
+.firstframe{
+
+}
+.secondItem{
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    margin-top: 90px;
+    /* background-color: antiquewhite; */
+
+}
+
+.containes{
+display: flex;
+justify-content: space-around;
+width: 100%;
+height: 100%;
+
+
+}
+.con{
+ 
+
+}
+.containes2{
+    margin-top: 240px;
+    background-color: black;
+    color: aquamarine;
+}
+.about{
+  letter-spacing: 2px;
+    padding: 0;
+    margin: 0;
+font-size: 40px;
+    color: aliceblue;
+}
+.about2{
+   margin: 4px;
+    padding: 0;
+font-size: 20px;
+    color: aliceblue;
+}
